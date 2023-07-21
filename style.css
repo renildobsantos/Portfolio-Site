@@ -486,3 +486,15 @@ footer p {
     }
 
 }
+@media (max-width: 375px) {
+
+     /* PÁGINA HOME */
+     
+     .header {
+        width: 375px;
+    }
+    .navbar a {
+        margin: 5px;
+    }
+
+}
